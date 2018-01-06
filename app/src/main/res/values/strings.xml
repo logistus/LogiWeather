@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Logi Weather</string>
+    <string name="last_update">Last Update</string>
+    <string name="add_city">Add City</string>
+    <string name="select_city_error">Please select a city.</string>
+    <string name="delete_all_cities">Delete All Cities</string>
+    <string name="delete_cities_warn">Are you sure?</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="local_time">Local Time</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete_city">Delete city?</string>
+    <string name="save">Save</string>
+    <string name="temperature_type">Temperature Type</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="hour12">12H</string>
+    <string name="hour24">24H</string>
+    <string name="time_format">Time Format</string>
+    <string name="no_city_warning">You don\'t have any city in your list.</string>
+    <string name="error">Error</string>
+    <string name="no_connection_error">This action needs an active internet connection.</string>
+    <string name="removed">Removed</string>
+    <string name="already_have">You already have this city in your list.</string>
+    <string name="slash">/</string>
+</resources>

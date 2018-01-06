@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logi Weather</string>
+    <string name="last_update">Son Güncelleme</string>
+    <string name="add_city">Şehir Ekle</string>
+    <string name="select_city_error">Lütfen şehir seçin.</string>
+    <string name="delete_all_cities">Tüm Şehirleri Sil</string>
+    <string name="delete_cities_warn">Emin misiniz?</string>
+    <string name="ok">Tamam</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="local_time">Yerel Zaman</string>
+    <string name="settings">Ayarlar</string>
+    <string name="delete">Sil</string>
+    <string name="confirm_delete_city">Şehri sil?</string>
+    <string name="save">Kaydet</string>
+    <string name="temperature_type">Sıcaklık Birimi</string>
+    <string name="celsius">Santigrat</string>
+    <string name="fahrenheit">Fahrenhayt</string>
+    <string name="hour12">12 Saatlik</string>
+    <string name="hour24">24 Saatlik</string>
+    <string name="time_format">Saat Formatı</string>
+    <string name="no_city_warning">Listenizde hiç şehir yok.</string>
+    <string name="error">Hata</string>
+    <string name="no_connection_error">Bu işlem internet bağlantısına ihtiyaç duyuyor.</string>
+    <string name="removed">Kaldırıldı</string>
+    <string name="already_have">Bu şehir listenizde zaten var.</string>
+    <string name="slash">/</string>
+</resources>
